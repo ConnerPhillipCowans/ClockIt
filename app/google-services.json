@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371180292415",
+    "project_id": "clock-it-288f5",
+    "storage_bucket": "clock-it-288f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371180292415:android:5415636b2b9606f16fab8a",
+        "android_client_info": {
+          "package_name": "com.example.clockit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA82DHsuOFBh9uNfh1Ue9c6kDgX2dxTlJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371180292415:android:7ded477176fa7aa46fab8a",
+        "android_client_info": {
+          "package_name": "com.example.clockitproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA82DHsuOFBh9uNfh1Ue9c6kDgX2dxTlJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
